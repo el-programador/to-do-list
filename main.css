@@ -1,0 +1,91 @@
+.list-group-item input[type=text] {
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.completado {
+    text-decoration: line-through;
+    font-style: italic;
+    color: gray;
+}
+
+.navbar-login
+{
+    width: 305px;
+    padding: 10px;
+    padding-bottom: 0px;
+}
+
+.navbar-login-session
+{
+    padding: 10px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+
+.icon-size
+{
+    font-size: 50px;
+}
+
+small {
+    font-size:11px;
+}
+
+.avatar {
+    width: 32px;
+    margin-right: 5px;
+    border-radius: 5px;
+}
+.btn{
+    font-size: 5px !important;
+}
+i{
+    font-size: 12px;
+    padding: 0px;
+}
+i#add{
+
+    font-size: 20px;
+    padding: 7px;
+}
+#titulo{
+    text-align: center;
+    background: rgb(238, 176, 210) !important;
+    color: white;
+    padding: 10px;
+}
+i#tit{
+    font-size: 30px;
+    margin-right: 30px;
+}
+
+input#date{
+    color: rgb(218, 6, 193);
+    border-radius: 5px;
+    font-size: 12px;
+    background: rgb(247, 228, 231);
+}
+p{
+   color: rgb(39, 11, 165);
+    font-weight: bolder;
+}
+li.lista{
+   
+     background-image: url(deg-rosa.jpg);
+    background-size: cover; 
+}
+.priority{
+font-size: 12px;
+color: rgb(218, 6, 193);
+}
+button.btn-dark{
+    background: rgb(238, 176, 210) !important;
+    border: 1px solid rgb(238, 176, 210) !important;
+}
+p.footer{
+    font-size: 10px;
+    color:  rgb(238, 176, 210);
+    text-align: center;
+    padding-top: 10px;
+}
