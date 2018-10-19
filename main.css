@@ -39,6 +39,8 @@ small {
 }
 .btn{
     font-size: 5px !important;
+    padding-left: 5px!important;
+    padding-right: 5px!important;
 }
 i{
     font-size: 12px;
@@ -88,4 +90,13 @@ p.footer{
     color:  rgb(238, 176, 210);
     text-align: center;
     padding-top: 10px;
+}
+ul li input{
+    padding: 0;
+}
+
+body div.container,
+li.list-group-item{
+    margin: 0px !important;
+  padding: 3px !important;
 }
